@@ -159,7 +159,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
      st.subheader('DICT | Digital Mastery Unleashed')
      st.write(
           """
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+A training program centered around digital mastery took place on November 14-15, 2023, at the DICT Palawan Provincial Tech4ED Center.
 """
      )
      st.image(img_list[4], caption='Digital Mastery Unleashed - Exploring Advanced IT Concepts and Skills')
