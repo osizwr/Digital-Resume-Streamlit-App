@@ -105,6 +105,7 @@ if select == 'Experiences':
           """
 April 2023 - June 2023
 - Inventory Management Specialist: Conducts thorough physical counts to assess remaining stock levels. Proficient in executing the issuance, recording, and receiving processes for outgoing tools and materials.
+- Data Entry Specialist: Inputting and documenting all of the items that come in and go out of the PPC Water District Warehouse into the database.
 """
      )
      st.subheader("Support Staff | Three A's Restaurant")
