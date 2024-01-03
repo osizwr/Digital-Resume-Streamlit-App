@@ -104,27 +104,25 @@ if select == 'Experiences':
      st.write(
           """
 April 2023 - June 2023
-- **Inventory Management Specialist**: Conducts thorough physical counts to assess remaining stock levels. Proficient in executing the issuance, recording, and receiving processes for outgoing tools and materials.
--
-- **Data Entry Specialist**: Inputting and documenting all of the items that come in and go out of the PPC Water District Warehouse into the database.
+- 🟢 **Inventory Management Specialist**: Conducts thorough physical counts to assess remaining stock levels. Proficient in executing the issuance, recording, and receiving processes for outgoing tools and materials.
+- 🟢 **Data Entry Specialist**: Inputting and documenting all of the items that come in and go out of the PPC Water District Warehouse into the database.
 """
      )
      st.subheader("Service Crew | Three A's Restaurant")
      st.write(
           """
 September 2023 - October 2023
-- **Service Staff**: Collaborate with kitchen and serving staff to coordinate order fulfillment and address any customer concerns promptly. Monitor and replenish supplies in dining areas, including condiments, utensils, and napkins. Assist in maintaining cleanliness and hygiene standards in the dining area, ensuring a pleasant atmosphere for guests.
+- 🟢 **Service Staff**: Collaborate with kitchen and serving staff to coordinate order fulfillment and address any customer concerns promptly. Monitor and replenish supplies in dining areas, including condiments, utensils, and napkins. Assist in maintaining cleanliness and hygiene standards in the dining area, ensuring a pleasant atmosphere for guests.
 """
      )
-     st.subheader('Intern | Department of Information and Communications Technology - The Department of Labor and Employment')
+     st.subheader('Intern | Department of Information and Communications Technology')
+     st.subheader('The Department of Labor and Employment')
      st.write(
           """
 October 2023 - Present
-- **Office Support Staff**: Provide support to the office by performing various administrative tasks, such as handling phone calls, managing schedules, organizing documents, and assisting with general office operations.
--
-- **Media Specialist**: Taking photos and videos content to document the proceedings throughout the seminar or training session, ensuring a comprehensive record of the event's activities.
--
-- **Entry-Level Programming Associates**: Handling basic programming, understanding the basic programming languages, testing, and debugging code under the guidance of more experienced developers or team leads.
+- 🟢 **Office Support Staff**: Provide support to the office by performing various administrative tasks, such as handling phone calls, managing schedules, organizing documents, and assisting with general office operations.
+- 🟢 **Media Specialist**: Taking photos and videos content to document the proceedings throughout the seminar or training session, ensuring a comprehensive record of the event's activities.
+- 🟢 **Entry-Level Programming Associates**: Handling basic programming, understanding the basic programming languages, testing, and debugging code under the guidance of more experienced developers or team leads.
 """
      )
 
@@ -135,7 +133,7 @@ if select == 'Certificates':
      st.subheader('Decode 2021')
      st.write(
           """
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+In the year 2021, I attended a seminar on how to protect and defend our own data in the cyber society.
 """
      )
      st.image(img_list[1], caption='Decode 2021 - Cyber Defense Society')
@@ -145,7 +143,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
      st.subheader('Decode 2021: Get it Girl')
      st.write(
           """
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Discusses the state of the cybersecurity skills gap and how it has improved as a result of diversity and inclusion.
 """
      )
      st.image(img_list[2], caption='Decode 2021 - Women Work: How Women Stand Out')
@@ -155,7 +153,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
      st.subheader('PPS Innovations Inc. | PUGAD')
      st.write(
           """
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+On July 28, 2022, I attended the seminar "Electronics Use in Medical Devices" at Ka Inato, San Manuel, Puerto Princesa City, Palawan.
 """
      )
      st.image(img_list[3], caption='PPS Innovations Inc. | PUGAD - Electronics Use in Medical Devices')
@@ -175,7 +173,7 @@ A training program centered around digital mastery took place on November 14-15,
      st.subheader('CISCO | Cisco Networking Academy')
      st.write(
           """
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+A training program offered by Department of Information and Communications Technology (DICT) focuses about the Introduction to Cybersecurity.
 """
      )
      st.image(img_list[6], caption='CISCO - Introduction to Cybersecurity')
@@ -185,7 +183,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
      st.subheader('CISCO | Cisco Networking Academy')
      st.write(
           """
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+A training program offered by Department of Information and Communications Technology (DICT) focuses about the Cybersecurity Essentials.
 """
      )
      st.image(img_list[5], caption='CISCO - Cybersecurity Essentials')
