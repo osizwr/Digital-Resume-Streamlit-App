@@ -125,6 +125,7 @@ April 2023 - June 2023
 - 🟢 **Data Entry Specialist**: Inputting and documenting all of the items that come in and go out of the PPC Water District Warehouse into the database.
 """
      )
+     st.write('##')
      st.subheader("Service Crew | Three A's Restaurant")
      st.write(
           """
@@ -132,6 +133,7 @@ September 2023 - October 2023
 - 🟢 **Service Staff**: Collaborate with kitchen and serving staff to coordinate order fulfillment and address any customer concerns promptly. Monitor and replenish supplies in dining areas, including condiments, utensils, and napkins. Assist in maintaining cleanliness and hygiene standards in the dining area, ensuring a pleasant atmosphere for guests.
 """
      )
+     st.write('##')
      st.subheader('Intern | Department of Information and Communications Technology (DICT) - The Department of Labor and Employment (DOLE)')
      st.write(
           """
