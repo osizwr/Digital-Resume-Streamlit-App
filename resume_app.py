@@ -61,6 +61,7 @@ with col2:
     st.write(
          """
 - 📫 kristinejrodel@gmail.com
+- 📞 (+63)9063458583
 - 🌐 Facebook: [Kristine Jane Rodel](https://web.facebook.com/kwistin18)
 - 🌐 Instagram: [@kristn.jane](https://www.instagram.com/kristn.jane?igsh=Mzg1d3o4MDVnNmUy)
 """
@@ -80,7 +81,7 @@ select = option_menu(
 )
 
 if select == 'Skills':
-     st.header('Skills')
+     st.header('Soft Skills')
      st.write('---')
      col1, col2 = st.columns(2, gap="small")
      with col1:
@@ -91,6 +92,19 @@ if select == 'Skills':
 - ✅ Efficient in Fast-Paced Environments
 - ✅ Able to learn at any new task assigned
 - ✅ Pressure Resilience and High Standards
+
+"""
+)
+     st.header('Hard Skills')
+     st.write('---')
+     col1, col2 = st.columns(2, gap="small")
+     with col1:
+          st.write(
+          """
+- 👩‍💻 Entry-Level Programmer
+- 📅 Mid-Level Data Entry Specialist
+- ⚙️ Mid-Level Inventory Management Specialist
+- 📄 Proficiency in MS Office (Word, Excel, PowerPoint, & Outlook)
 
 """
 )
