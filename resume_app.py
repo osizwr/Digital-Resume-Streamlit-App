@@ -81,8 +81,8 @@ select = option_menu(
 )
 
 if select == 'Skills':
+          st.write('---')
      st.header('Soft Skills')
-     st.write('---')
      col1, col2 = st.columns(2, gap="small")
      with col1:
           st.write(
@@ -95,8 +95,11 @@ if select == 'Skills':
 
 """
 )
-     st.header('Hard Skills')
+     with col2:
+          st.empty()
+
      st.write('---')
+     st.header('Hard Skills')
      col1, col2 = st.columns(2, gap="small")
      with col1:
           st.write(
