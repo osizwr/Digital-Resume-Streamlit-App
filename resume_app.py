@@ -105,7 +105,7 @@ if select == 'Experiences':
           """
 April 2023 - June 2023
 - **Inventory Management Specialist**: Conducts thorough physical counts to assess remaining stock levels. Proficient in executing the issuance, recording, and receiving processes for outgoing tools and materials.
-##
+-
 - **Data Entry Specialist**: Inputting and documenting all of the items that come in and go out of the PPC Water District Warehouse into the database.
 """
      )
@@ -121,7 +121,9 @@ September 2023 - October 2023
           """
 October 2023 - Present
 - **Office Support Staff**: Provide support to the office by performing various administrative tasks, such as handling phone calls, managing schedules, organizing documents, and assisting with general office operations.
+-
 - **Media Specialist**: Taking photos and videos content to document the proceedings throughout the seminar or training session, ensuring a comprehensive record of the event's activities.
+-
 - **Entry-Level Programming Associates**: Handling basic programming, understanding the basic programming languages, testing, and debugging code under the guidance of more experienced developers or team leads.
 """
      )
