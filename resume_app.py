@@ -100,7 +100,7 @@ if select == 'Skills':
 
      st.write('---')
      st.header('Hard Skills')
-     col1, col2 = st.columns(2, gap="small")
+     col1, col2 = st.columns((2,1))
      with col1:
           st.write(
           """
