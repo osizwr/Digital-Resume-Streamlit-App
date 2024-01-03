@@ -104,22 +104,24 @@ if select == 'Experiences':
      st.write(
           """
 April 2023 - June 2023
-- Inventory Management Specialist: Conducts thorough physical counts to assess remaining stock levels. Proficient in executing the issuance, recording, and receiving processes for outgoing tools and materials.
-- Data Entry Specialist: Inputting and documenting all of the items that come in and go out of the PPC Water District Warehouse into the database.
+- **Inventory Management Specialist**: Conducts thorough physical counts to assess remaining stock levels. Proficient in executing the issuance, recording, and receiving processes for outgoing tools and materials.
+- **Data Entry Specialist**: Inputting and documenting all of the items that come in and go out of the PPC Water District Warehouse into the database.
 """
      )
-     st.subheader("Support Staff | Three A's Restaurant")
+     st.subheader("Service Crew | Three A's Restaurant")
      st.write(
           """
 September 2023 - October 2023
-- Waitstaff: Collaborate with kitchen and serving staff to coordinate order fulfillment and address any customer concerns promptly. Monitor and replenish supplies in dining areas, including condiments, utensils, and napkins, to uphold a clean and organized environment and assist in maintaining cleanliness and hygiene standards in the dining area, ensuring a pleasant atmosphere for guests.
+- **Service Staff**: Collaborate with kitchen and serving staff to coordinate order fulfillment and address any customer concerns promptly. Monitor and replenish supplies in dining areas, including condiments, utensils, and napkins. Assist in maintaining cleanliness and hygiene standards in the dining area, ensuring a pleasant atmosphere for guests.
 """
      )
-     st.subheader('Government Internship Program | Department of Information and Communications Technology')
+     st.subheader('Intern | Department of Information and Communications Technology - The Department of Labor and Employment')
      st.write(
           """
 October 2023 - Present
-- Duis aute: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- **Office Support Staff**: Provide support to the office by performing various administrative tasks, such as handling phone calls, managing schedules, organizing documents, and assisting with general office operations.
+- **Media Specialist**: Taking photos and videos content to document the proceedings throughout the seminar or training session, ensuring a comprehensive record of the event's activities.
+- **Entry-Level Programming Associates**: Handling basic programming, understanding the basic programming languages, testing, and debugging code under the guidance of more experienced developers or team leads.
 """
      )
 
