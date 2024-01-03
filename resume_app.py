@@ -115,8 +115,7 @@ September 2023 - October 2023
 - 🟢 **Service Staff**: Collaborate with kitchen and serving staff to coordinate order fulfillment and address any customer concerns promptly. Monitor and replenish supplies in dining areas, including condiments, utensils, and napkins. Assist in maintaining cleanliness and hygiene standards in the dining area, ensuring a pleasant atmosphere for guests.
 """
      )
-     st.subheader('Intern | Department of Information and Communications Technology')
-     st.subheader('The Department of Labor and Employment')
+     st.subheader('Intern | Department of Information and Communications Technology (DICT) - The Department of Labor and Employment (DOLE)')
      st.write(
           """
 October 2023 - Present
