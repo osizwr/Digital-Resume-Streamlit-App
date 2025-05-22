@@ -137,10 +137,21 @@ September 2023 - October 2023
      st.subheader('Intern | Department of Information and Communications Technology (DICT) - The Department of Labor and Employment (DOLE)')
      st.write(
           """
-October 2023 - Present
+October 2023 - December 2023
 - 🟢 **Office Support Staff**: Provide support to the office by performing various administrative tasks, such as handling phone calls, managing schedules, organizing documents, and assisting with general office operations.
 - 🟢 **Media Specialist**: Taking photos and videos content to document the proceedings throughout the seminar or training session, ensuring a comprehensive record of the event's activities.
 - 🟢 **Entry-Level Programming Associates**: Handling basic programming, understanding the basic programming languages, testing, and debugging code under the guidance of more experienced developers or team leads.
+"""
+     )
+    st.write('##')
+     st.subheader('IT Officer | Go Gro Corporation - Goland Supermarket')
+     st.write(
+          """
+January 2024 - Present
+- 🟢 **Technical Support**: Competent in maintaining operational efficiency through meticulous attention to detail, encompassing POS system troubleshooting and repair, resolving internet connectivity issues, repairing computer and printer malfunctions, monitoring and maintaining CCTV security systems, performing routine computer maintenance (including cleaning and security updates), managing document printing requests, and maintaining effective email communication channels.
+- 🟢 **Data-Entry Specialist**: Accurately encodes daily electronic sales data from point-of sale (POS) systems and meticulously records transactions in the book of accounts, ensuring data integrity and financial accuracy.
+- 🟢 **Staff Support**: Acted as a temporary replacement for the office secretary during absences and performed essential duties such as computing cashier remittances and managing routine administrative tasks.
+- Provided support in overseeing store operations during staff shortages, ensuring efficient workflows and consistently high customer service standards. Managed employee tasks, handled customer inquiries, and resolved immediate issues to maintain smooth and effective store management.
 """
      )
 
