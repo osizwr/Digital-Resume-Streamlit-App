@@ -117,33 +117,6 @@ if select == 'Skills':
 if select == 'Experiences':
      st.header('Experiences')
      st.write('---')
-     st.subheader('Intern | Puerto Princesa City Water District')
-     st.write(
-          """
-April 2023 - June 2023
-- 🟢 **Inventory Management Specialist**: Conducts thorough physical counts to assess remaining stock levels. Proficient in executing the issuance, recording, and receiving processes for outgoing tools and materials.
-- 🟢 **Data Entry Specialist**: Inputting and documenting all of the items that come in and go out of the PPC Water District Warehouse into the database.
-"""
-     )
-     st.write('##')
-     st.subheader("Service Crew | Three A's Restaurant")
-     st.write(
-          """
-September 2023 - October 2023
-- 🟢 **Service Staff**: Collaborate with kitchen and serving staff to coordinate order fulfillment and address any customer concerns promptly. Monitor and replenish supplies in dining areas, including condiments, utensils, and napkins. Assist in maintaining cleanliness and hygiene standards in the dining area, ensuring a pleasant atmosphere for guests.
-"""
-     )
-     st.write('##')
-     st.subheader('Intern | Department of Information and Communications Technology (DICT) - The Department of Labor and Employment (DOLE)')
-     st.write(
-          """
-October 2023 - December 2023
-- 🟢 **Office Support Staff**: Provide support to the office by performing various administrative tasks, such as handling phone calls, managing schedules, organizing documents, and assisting with general office operations.
-- 🟢 **Media Specialist**: Taking photos and videos content to document the proceedings throughout the seminar or training session, ensuring a comprehensive record of the event's activities.
-- 🟢 **Entry-Level Programming Associates**: Handling basic programming, understanding the basic programming languages, testing, and debugging code under the guidance of more experienced developers or team leads.
-"""
-     )
-    st.write('##')
      st.subheader('IT Officer | Go Gro Corporation - Goland Supermarket')
      st.write(
           """
@@ -154,6 +127,35 @@ January 2024 - Present
 - Provided support in overseeing store operations during staff shortages, ensuring efficient workflows and consistently high customer service standards. Managed employee tasks, handled customer inquiries, and resolved immediate issues to maintain smooth and effective store management.
 """
      )
+	 st.write('##')
+     st.subheader('Intern | Department of Information and Communications Technology (DICT) - The Department of Labor and Employment (DOLE)')
+     st.write(
+          """
+October 2023 - December 2023
+- 🟢 **Office Support Staff**: Provide support to the office by performing various administrative tasks, such as handling phone calls, managing schedules, organizing documents, and assisting with general office operations.
+- 🟢 **Media Specialist**: Taking photos and videos content to document the proceedings throughout the seminar or training session, ensuring a comprehensive record of the event's activities.
+- 🟢 **Entry-Level Programming Associates**: Handling basic programming, understanding the basic programming languages, testing, and debugging code under the guidance of more experienced developers or team leads.
+"""
+     )
+	 st.write('##')
+     st.subheader("Service Crew | Three A's Restaurant")
+     st.write(
+          """
+September 2023 - October 2023
+- 🟢 **Service Staff**: Collaborate with kitchen and serving staff to coordinate order fulfillment and address any customer concerns promptly. Monitor and replenish supplies in dining areas, including condiments, utensils, and napkins. Assist in maintaining cleanliness and hygiene standards in the dining area, ensuring a pleasant atmosphere for guests.
+"""
+     )
+	 st.write('##')
+	 st.subheader('Intern | Puerto Princesa City Water District')
+     st.write(
+          """
+April 2023 - June 2023
+- 🟢 **Inventory Management Specialist**: Conducts thorough physical counts to assess remaining stock levels. Proficient in executing the issuance, recording, and receiving processes for outgoing tools and materials.
+- 🟢 **Data Entry Specialist**: Inputting and documenting all of the items that come in and go out of the PPC Water District Warehouse into the database.
+"""
+     )
+     
+     
 
 if select == 'Certificates':
      st.header('Certificates')
