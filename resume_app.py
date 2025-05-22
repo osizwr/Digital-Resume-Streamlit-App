@@ -74,8 +74,8 @@ with col2:
 
 select = option_menu(
     menu_title = None,
-    options = ['Skills', 'Experiences', 'Certificates'],
-    icons = ['activity', 'book', 'patch-check'],
+    options = ['Experiences', 'Skills', 'Certificates'],
+    icons = ['book', 'activity', 'patch-check'],
     default_index = 0,
     orientation = 'horizontal',
 )
